@@ -1,4 +1,3 @@
-#ok so orgo is way to fucking big and my computer is way to fucking slow
 #this program will open the "clean" and then chop it up into carriers
 #this is now OP 2
 
