@@ -45,5 +45,5 @@ with session() as c: #Create a cookie session to login to the protected page
     
     
 
-print ("It's done d00dz, 1337 pwn sauce hax0r")
+print ("It's done d00dz")
 			
