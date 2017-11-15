@@ -1,4 +1,3 @@
-#ok so orgo is way to fucking big and my computer is way to fucking slow
 #this program will open the OP and then chop it up into the "clean" and "dirty"
 #this is now OP 1
 
@@ -10,7 +9,7 @@ import csv
 ##    print("started")
 ##    print()
 
-#these are the words that are used to filter out "bad=shit" condition listings, these are know as: shit.
+#these are the words that are used to filter out "bad" condition listings.
 #they go in their own list
 #might remove the words: excellent, mint
 shit_words = ["damage","bad","error","liquid","part","parts","problem","problems","crack","cracks","wont",
